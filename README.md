@@ -1,1 +1,1 @@
-Freshman at Bilkent
+Freshman at Bilkent, learning Java.
